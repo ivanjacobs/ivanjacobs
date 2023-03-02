@@ -1,5 +1,7 @@
-### Hi there 👋
+Hi 👋 I'm Lead Data Scientist / A.I. expert external consultant at the European Commission DG TAXUD working on the Import Control System (ICS2) Safety and Security Analytics (SSA) project.
 
+I have 22 years’ experience as Computer Scientist and Data Scientist 18 of which in the European Institutions. I completed a Master of Data Science at Rochester Institute of Technology (RIT) and have followed multiple professional education paths to acquire the needed knowledge and skills. Since 2008 I have been delivering A.I. consulting all over the world in the areas of Physical Security, Telecom, Communication, Cyber Security, Industry, Robotics, Naval Solutions and Public Sector.
+Currently following a path towards a PhD at the Swiss School of Business Research.
 <!--
 **ivanjacobs/ivanjacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
