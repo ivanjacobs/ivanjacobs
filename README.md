@@ -7,9 +7,7 @@ Currently following a path towards a PhD at the Swiss School of Business Researc
 
 Publications:
 ✨ Jacobs, Ivan, and Manolis Maragoudakis. 2021. "De Novo Drug Design Using Artificial Intelligence Applied on SARS-CoV-2 Viral Proteins ASYNT-GAN" BioChem 1, no. 1: 36-48. https://doi.org/10.3390/biochem1010004
-✨ Preprint: 
-In silico Antibody-Peptide Epitope prediction for Personalized cancer therapy
-Ivan Jacobs, Lim Chwee Ming, Jamie Mong, Maragkoudakis Emmanoil, Nishant Malik
+✨ Preprint: In silico Antibody-Peptide Epitope prediction for Personalized cancer therapy Ivan Jacobs, Lim Chwee Ming, Jamie Mong, Maragkoudakis Emmanoil, Nishant Malik
 bioRxiv 2023.01.23.525181; doi: https://doi.org/10.1101/2023.01.23.525181
 <!--
 **ivanjacobs/ivanjacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
