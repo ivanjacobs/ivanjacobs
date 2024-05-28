@@ -1,14 +1,7 @@
 Hi 👋 I'm Vice President/ Head, Capability Development – Artificial Intelligence, Cyber @ ST-Engineering Singapore.
 
 I have 22 years’ experience as Computer Scientist and Data Scientist 18 of which in the European Institutions. I completed a Master of Data Science at Rochester Institute of Technology (RIT) and have followed multiple professional education paths to acquire the needed knowledge and skills. Since 2008 I have been delivering A.I. consulting all over the world in the areas of Physical Security, Telecom, Communication, Cyber Security, Industry, Robotics, Naval Solutions and Public Sector.
-Currently following a path towards a PhD at the Swiss School of Business Research and am PhD candidate at the University of Luxembourg.
-
-PhD candidate at the University of Luxembourg
-🔭 Area of Research:
-Machine Learning, Deep Learning, Data Science, Life Sciences, and Cyber Security 
-Title:
-Programmable and explainable deep learning target discovery and solution generation 
-
+In May 2024, I completed the Doctor of Philosophy - PhD at Swiss School of Business Research with distinction, focusing on the intersection of disruptive innovation and artificial intelligence (AI) through a paradigm for collaborative decision-making and problem-solving between humans and AI and a framework for job redefinition and automation.
 
 Publications:
 ✨ Jacobs, Ivan, and Manolis Maragoudakis. 2021. "De Novo Drug Design Using Artificial Intelligence Applied on SARS-CoV-2 Viral Proteins ASYNT-GAN" BioChem 1, no. 1: 36-48. https://doi.org/10.3390/biochem1010004
